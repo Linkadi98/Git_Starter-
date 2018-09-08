@@ -1,2 +1,1 @@
-# Git_Starter-
-Bắt đầu học sử dụng git 
+Bat dau hoc git co ban
